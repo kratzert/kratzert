@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm Frederik Kratzert, PhD candidate at the Institute of Machine Learning at the JKU Linz, Austria, under the supervision of Sepp Hochreiter.
+
+## :nerd_face: Research :thinking:
+
+Most of my research is dedicated towards solving applications in environmental sciences (mainly hydrology) with machine learning.
+
+## Links
+- Twitter: [@fkratzert](https://twitter.com/fkratzert)
+- GScholar: [Frederik Kratzert](https://scholar.google.com/citations?user=iDLXy_EAAAAJ&hl=de)
+- Research Blog: [neuralhydrology.github.io](https://neuralhydrology.github.io/)
+- Personal Blog: [kratzert.github.io](https://kratzert.github.io)
+
 <!--
 **kratzert/kratzert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
