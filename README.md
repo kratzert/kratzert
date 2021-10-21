@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Frederik Kratzert, PhD candidate at the Institute of Machine Learning at the JKU Linz, Austria, under the supervision of Sepp Hochreiter.
+I'm Frederik Kratzert, Researcher @ Google working in the Flood Forecasting Team. This here is my private GitHub account, were I maintain my open source projects and publish code related to any kind of research articles.
 
 ## :nerd_face: Research :thinking:
 
